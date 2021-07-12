@@ -10,6 +10,11 @@ This 5-course certificate, developed by Google, includes innovative curriculum d
 | `System Administration and IT Infrastructure Services` | This course will transition you from working on a single computer to a whole fleet. Systems administration is the field of IT that’s responsible for maintaining reliable computers systems in a multi-user environment. |
 | `IT Security` | This course covers a wide variety of IT security concepts, tools, and best practices. It introduces threats and attacks and the many ways they can show up. |
 
+Solutions for the Quizzes on GitHub 
+========================================================
+
+- https://github.com/elmoallistair/google-it-support
+
 
 Links and Appendix
 ========================================================
