@@ -9,7 +9,7 @@
 YouTube
 ========================================================
 
-- What is APFS? What is APFS? - The Apple File System Explained
+- What is APFS? - The Apple File System Explained
 
 https://www.youtube.com/watch?v=9I7fg930Deg
 
