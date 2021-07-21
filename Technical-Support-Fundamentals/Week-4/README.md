@@ -7,10 +7,13 @@
 
 YouTube 
 ========================================================
-IPv4 vs IPv6 Tutorial
+- IPv4 vs IPv6 Tutorial
+
 https://www.youtube.com/watch?v=ThdO9beHhpA
 
-NAT Explained - Network Address Translation
+
+- NAT Explained - Network Address Translation
+
 https://www.youtube.com/watch?v=FTUV0t6JaDA
 
 
