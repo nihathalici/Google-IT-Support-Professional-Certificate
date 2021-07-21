@@ -5,6 +5,12 @@
 * Understand the basics of how data travels across the Internet.
 
 
+YouTube 
+========================================================
+NAT Explained - Network Address Translation
+https://www.youtube.com/watch?v=FTUV0t6JaDA
+
+
 Links and Appendix
 ========================================================
 Offered by Google
