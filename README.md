@@ -15,6 +15,11 @@ Solutions for the Quizzes on GitHub
 
 - https://github.com/elmoallistair/google-it-support
 
+Another helping GitHub Account 
+========================================================
+All the complete videos of 6 courses of the specialization is available here:
+- https://github.com/ashwani65/Google-IT-Support-Professional-Certificate
+
 
 Links and Appendix
 ========================================================
