@@ -7,7 +7,7 @@ Learning Objectives
 * Understand what the layers of computer architecture are.
 * Convert binary numbers into decimal form.
 
-Watch on YouTube
+YouTube
 ========================================================
 
 The SIMPLEST explanation of Counting and Converting Binary numbers:
