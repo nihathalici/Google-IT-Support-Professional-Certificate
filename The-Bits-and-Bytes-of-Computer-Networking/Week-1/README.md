@@ -13,6 +13,14 @@ YouTube
 
 https://www.youtube.com/watch?v=OTwp3xtd4dg
 
+- OSI Model Explained
+
+https://www.youtube.com/watch?v=LANW3m7UgWs
+
+- Hub, Switch, & Router Explained
+
+https://www.youtube.com/watch?v=1z0ULvg_pW8
+
 
 Links and Appendix
 ========================================================
