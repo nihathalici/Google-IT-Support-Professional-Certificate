@@ -6,6 +6,13 @@
 * Describe how the physical layer works.
 * Describe how the data link layer works.
 
+YouTube
+========================================================
+
+- TCP/IP Model Explained:
+
+https://www.youtube.com/watch?v=OTwp3xtd4dg
+
 
 Links and Appendix
 ========================================================
