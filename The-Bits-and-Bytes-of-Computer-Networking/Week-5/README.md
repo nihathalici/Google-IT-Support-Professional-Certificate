@@ -1,8 +1,8 @@
 # The Bits and Bytes of Computer Networking | Week-5
 
-Describe various Internet connectivity technologies.
-Define components of WANs.
-Outline the basics of wireless and cellular networking.
+* Describe various Internet connectivity technologies.
+* Define components of WANs.
+* Outline the basics of wireless and cellular networking.
 
 
 
