@@ -1,5 +1,8 @@
 # The Bits and Bytes of Computer Networking | Week-6
 
+* Inspect common network connectivity problems.
+* Use tools available in Microsoft Windows, MacOS, and Linux to troubleshoot network issues.
+
 
 Links and Appendix
 ========================================================
