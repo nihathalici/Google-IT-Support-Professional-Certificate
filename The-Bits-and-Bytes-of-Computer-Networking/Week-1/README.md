@@ -21,6 +21,10 @@ https://www.youtube.com/watch?v=LANW3m7UgWs
 
 https://www.youtube.com/watch?v=1z0ULvg_pW8
 
+- 7 parts of an Ethernet Frame
+
+https://www.youtube.com/watch?v=qXtS1o1HGso
+
 
 Links and Appendix
 ========================================================
