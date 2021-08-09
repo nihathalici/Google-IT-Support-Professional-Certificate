@@ -8,7 +8,12 @@
 * Describe how the Internet works.
 * Understand the basics of routing and routing protocols.
 
+YouTube
+========================================================
 
+- Subnetting is simple
+
+https://www.youtube.com/watch?v=vcArZIAmnYQ&list=PLSNNzog5eydt_plAtt3k_LYuIXrAS4aDZ
 
 Links and Appendix
 ========================================================
