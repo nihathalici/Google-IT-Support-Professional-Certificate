@@ -17,6 +17,13 @@ Skills you will gain
 * Network Model
 * Troubleshooting
 
+YouTube
+========================================================
+- Everything about networks very easy and simple explained. Have a look at 'Sifu' Suny Classroom:
+
+https://www.youtube.com/channel/UCr0Ze4SR3MHXAgz1TvRYL7Q
+
+
 Links and Appendix
 ========================================================
 Offered by Google
