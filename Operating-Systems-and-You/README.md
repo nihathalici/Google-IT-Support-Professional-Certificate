@@ -12,6 +12,13 @@ By the end of this course you’ll be able to:
 * work with system logs and remote connection tools
 * utilize operating system knowledge to troubleshoot common issues in an IT Support Specialist role
 
+YouTube
+========================================================
+- Watch all course videos:
+
+https://www.youtube.com/watch?v=16Xh2a2Evjg&list=PL2jykFOD1AWY3Ot3HResh50JwdBdjilsq&index=1
+
+
 Links and Appendix
 ========================================================
 Offered by Google
