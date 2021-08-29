@@ -14,7 +14,7 @@ By the end of this course you’ll be able to:
 
 YouTube
 ========================================================
-- Watch all course videos:
+- Watch all course videos (a playlist of 103 videos):
 
 https://www.youtube.com/watch?v=16Xh2a2Evjg&list=PL2jykFOD1AWY3Ot3HResh50JwdBdjilsq&index=1
 
