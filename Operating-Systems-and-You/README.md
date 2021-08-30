@@ -1,4 +1,4 @@
-# Operating System and You
+# Operating System and You: Becoming a Power User
 
 
 In this course -- through a combination of video lectures, demonstrations, and hands-on practice -- you’ll learn about the main components of an operating system and how to perform critical tasks like managing software and users, and configuring hardware. 
