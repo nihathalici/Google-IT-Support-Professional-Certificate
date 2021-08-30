@@ -1,4 +1,4 @@
-# Operating System and You: Becoming a Power User
+# Operating System and You: Becoming a Power User | Week - 1
 
 * List, change, remove and make directories and files in the Windows GUI, Windows CLI and Linux shell.
 * Search for specific files and directories in Windows GUI, Windows CLI and Linux shell.
