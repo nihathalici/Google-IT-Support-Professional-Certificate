@@ -1,4 +1,4 @@
-# System Administration and IT Infrastructure Services
+# IT Security
 
 This course covers a wide variety of IT security concepts, tools, and best practices. It introduces threats and attacks and the many ways they can show up.  
 
