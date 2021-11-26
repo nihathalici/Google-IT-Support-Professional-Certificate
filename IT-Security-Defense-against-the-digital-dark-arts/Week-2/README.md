@@ -1,4 +1,4 @@
-# System Administration and IT Infrastructure Services | Week-2
+# IT Security | Week-2
 
 * Understand the how symmetric encryption, asymmetric encryption, and hashing work.
 * Describe the most common algorithms of cryptography.
