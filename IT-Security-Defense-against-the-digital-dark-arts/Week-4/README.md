@@ -1,4 +1,4 @@
-# System Administration and IT Infrastructure Services | Week-4
+# IT Security | Week-4
 
 * Implement security measures on a network environment.
 * Understand the risks of wireless networks and how to mitigate them.
