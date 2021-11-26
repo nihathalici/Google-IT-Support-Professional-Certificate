@@ -1,4 +1,4 @@
-# System Administration and IT Infrastructure Services | Week-3
+# IT Security | Week-3
 
 * Identify and describe the most common authentication services.
 * Understand and be able to choose the most appropriate method of authentication or authorization.
