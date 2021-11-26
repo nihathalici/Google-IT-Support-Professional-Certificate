@@ -1,4 +1,4 @@
-# System Administration and IT Infrastructure Services | Week-1
+# IT Security | Week-1
 
 * Define and recognize security risks, vulnerabilities and threats.
 * Be able to identify the most common security attacks.
