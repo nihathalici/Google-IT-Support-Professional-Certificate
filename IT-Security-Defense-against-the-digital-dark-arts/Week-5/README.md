@@ -1,4 +1,4 @@
-# System Administration and IT Infrastructure Services | Week-5
+# IT Security | Week-5
 
 * Implement the appropriate methods for system hardening.
 * Implement the appropriate methods for application hardening.
